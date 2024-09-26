@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/bm/bmcms/app/Http/Controllers/Common'
+let g:netrw_dirhist_2='/home/bm/bmcms/app/Http/Controllers'
+let g:netrw_dirhist_1='/home/bm/bmcms/app/Http'
+let g:netrw_dirhist_0='/home/bm/bmcms/app'
+let g:netrw_dirhist_9='/home/bm/bmcms/app/Http'
+let g:netrw_dirhist_8='/home/bm/bmcms/app'
+let g:netrw_dirhist_7='/home/bm/bmcms'
+let g:netrw_dirhist_6='/home/bm/bmcms/app'
+let g:netrw_dirhist_5='/home/bm/bmcms'
+let g:netrw_dirhist_4='/'
